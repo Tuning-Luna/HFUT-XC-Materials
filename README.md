@@ -1,2 +1,6 @@
-# HFUT-XC-Advanced-Math-Materials
 合肥工业大学/合工大/宣城校区，高数/数学资料
+fork不会同步更新，建议star
+
+# **Update log：**
+## 2024.1.6 
+上传了一些高数公式，知识总结，包括吉米多维奇电子版
